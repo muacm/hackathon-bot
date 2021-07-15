@@ -7,8 +7,11 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "jackbot"
+    "test": "node index.js"
   },
   "author": "yashsehgal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
