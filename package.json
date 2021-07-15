@@ -1,0 +1,14 @@
+{
+  "name": "hackathon-bot",
+  "version": "1.0.0",
+  "description": "This is a hackathon bot project based on NodeJS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jackbot"
+  },
+  "author": "yashsehgal",
+  "license": "ISC"
+}
